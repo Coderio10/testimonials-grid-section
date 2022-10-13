@@ -1,0 +1,9 @@
+@media only  screen and  (max-width: 600px) {
+    main{
+        display: block;
+        width: 90%;
+   }
+   .grid{
+    margin: 20px;
+   }
+}
